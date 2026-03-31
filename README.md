@@ -61,6 +61,7 @@
 - Online Agribank Products, Services notebook
 - Quick searching/filtering, refering
 - Good to know for new commers
+- Link: https://agribankvn.vercel.app
 
 ### 🔍 OCR Pipeline
 - Convert scanned PDFs → text
